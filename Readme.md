@@ -15,12 +15,6 @@ Printing of:
 * price of Savings from Reductions
 * Total Price
 
-#### Files ####
-    Main.hs 
-    Receipts.hs
-    Items.hs
-    Readme.md
-
 #### Main.hs ####
 
 Contains the main method and prints the final results
